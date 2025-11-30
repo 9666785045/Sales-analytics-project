@@ -4,4 +4,6 @@ This repository contains a fully-designed Sales Analytics Dashboard created usin
 The project demonstrates skills in data cleaning, analysis, and visual storytelling using interactive dashboards.
 
 ##Dataset used
-<a href="https://github.com/9666785045/Sales-analytics-project/blob/main/data%20(sample-data-10mins)_data.csv">Dataset</a>
+- <a href="https://github.com/9666785045/Sales-analytics-project/blob/main/data%20(sample-data-10mins)_data.csv">Dataset</a>
+
+
