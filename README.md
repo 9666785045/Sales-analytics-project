@@ -55,7 +55,7 @@ Canva – for presentation assets
 Krishna Deepika Yeloori
 Data Analyst | Tableau | Python | SQL
 📧 Email: ykrishnadeepika@gmail.com
-🔗 LinkedIn: linkedin.com/in/yeloorikrishnadeepika
+🔗 LinkedIn: www.linkedin.com/in/yeloorikrishnadeepika
 
 
 
