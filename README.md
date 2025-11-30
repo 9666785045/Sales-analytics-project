@@ -51,6 +51,12 @@ VS Code – project organization
 
 Canva – for presentation assets
 
+## Author
+Krishna Deepika Yeloori
+Data Analyst | Tableau | Python | SQL
+📧 Email: ykrishnadeepika@gmail.com
+🔗 LinkedIn: linkedin.com/in/yeloorikrishnadeepika
+
 
 
 
