@@ -24,7 +24,7 @@ The project demonstrates skills in data cleaning, analysis, and visual storytell
 ## Dashboard link
 -<a href="https://public.tableau.com/views/Book1_17582552554000/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard</a>
 
-##Dashboard Features
+## Dashboard Features
 -1: KPI Summary
 Shows a high-level snapshot of:
 Total Revenue
@@ -39,6 +39,11 @@ Ranks representatives based on sales performance.
 
 -4️:Interactive Filters
 Allows viewers to explore patterns instantly.
+
+## Dashboard Screenshoots
+
+
+
 
 
 
