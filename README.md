@@ -40,8 +40,16 @@ Ranks representatives based on sales performance.
 -4️:Interactive Filters
 Allows viewers to explore patterns instantly.
 
-## Dashboard Screenshoots
+## Tools Used
+Tools Used
 
+Tableau Public
+
+Excel / SQL / Python – for preprocessing and validation
+
+VS Code – project organization
+
+Canva – for presentation assets
 
 
 
